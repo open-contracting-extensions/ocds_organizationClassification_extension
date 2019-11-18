@@ -3,7 +3,6 @@
     "Organization": {
       "properties": {
         "details": {
-          "title": "Details",
           "properties": {
             "classifications": {
               "title": "Organization classifications",

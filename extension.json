@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Organization classification"
+  },
+  "description": {
+    "en": "Adds an array of Classification objects to Organization.details in order to categorize organizations."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/open-contracting-extensions/ocds_organizationClassification_extension"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}

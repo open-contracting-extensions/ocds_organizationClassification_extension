@@ -1,0 +1,24 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "title": "Details",
+          "properties": {
+            "classifications": {
+              "title": "Organization classifications",
+              "description": "The classifications that categorize the organization",
+              "type": [
+                "array",
+                "null"
+              ],
+              "items": {
+                "$ref": "#/definitions/Classification"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

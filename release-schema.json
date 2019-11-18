@@ -13,7 +13,8 @@
               ],
               "items": {
                 "$ref": "#/definitions/Classification"
-              }
+              },
+              "uniqueItems": true
             }
           }
         }

@@ -14,7 +14,8 @@
               "items": {
                 "$ref": "#/definitions/Classification"
               },
-              "uniqueItems": true
+              "uniqueItems": true,
+              "wholeListMerge": true
             }
           }
         }

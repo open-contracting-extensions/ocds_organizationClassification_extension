@@ -7,10 +7,7 @@
             "classifications": {
               "title": "Organization classifications",
               "description": "The classifications that categorize the organization",
-              "type": [
-                "array",
-                "null"
-              ],
+              "type": "array",
               "items": {
                 "$ref": "#/definitions/Classification"
               },

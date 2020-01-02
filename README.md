@@ -16,6 +16,7 @@ In the European Union, this extension's fields correspond to [eForms BT-10 (Acti
       "details": {
         "classifications": [
           {
+            "id": "10",
             "scheme": "TED_CA_ACTIVITY",
             "description": "Social protection"
           }

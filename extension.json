@@ -14,7 +14,7 @@
   "schemas": [
     "release-schema.json"
   ],
- "codelists": [
+  "codelists": [
     "+itemClassificationScheme.csv"
   ],
   "contactPoint": {

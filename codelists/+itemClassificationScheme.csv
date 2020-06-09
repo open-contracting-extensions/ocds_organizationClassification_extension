@@ -1,4 +1,3 @@
-
-Code,Title,Description,Source,Context
-TED_CA_TYPE,Type of the contracting authority,,https://simap.ted.europa.eu/documents/10184/99173/EN_F01.pdf,tender
-COFOG,Main activity,Main activity of the contracting authority,https://simap.ted.europa.eu/documents/10184/99173/EN_F01.pdf,tender
+Code,Title,Description,Source,Category
+TED_CA_TYPE,Type of contracting authority (EU),Type of contracting authority (EU),https://simap.ted.europa.eu/documents/10184/99173/EN_F01.pdf,organization
+COFOG,Classification of the Functions of Government,COFOG was developed by the Organisation for Economic Co-operation and Development and published by the United Nations Statistical Division as a standard classifying the purposes of government activities.,https://unstats.un.org/unsd/classifications/Econ/,organization

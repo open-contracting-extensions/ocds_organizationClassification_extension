@@ -42,7 +42,7 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ### 2021-02-15
 
-* [#1157](https://github.com/open-contracting/standard/issues/1157) Move the 'COFOG' code from the `+itemClassificationScheme.csv` codelist to the standard.
+* [#1157](https://github.com/open-contracting/standard/issues/1157) Move the COFOG code from the `+itemClassificationScheme.csv` codelist to the standard.
 
 ### 2020-04-24
 

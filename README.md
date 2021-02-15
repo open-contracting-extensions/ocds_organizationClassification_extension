@@ -33,6 +33,10 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ## Changelog
 
+### 2021-02-09
+
+* Remove the 'COFOG' code from the '+itemClassificationScheme.csv' codelist to add it to the standard (see [standard/#1157](https://github.com/open-contracting/standard/issues/1157)).
+
 ### 2020-04-24
 
 * Add `minProperties`, `minItems` and/or `minLength` properties.

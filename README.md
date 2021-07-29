@@ -1,6 +1,6 @@
 # Organization classification
 
-Adds an array of Classification objects to Organization.details in order to categorize organizations.
+Adds an array of classification objects to a party's details in order to categorize organizations.
 
 ## Legal context
 

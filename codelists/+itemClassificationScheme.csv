@@ -1,3 +1,5 @@
 Code,Title,Description,Source,Category
 TED_CA_TYPE,EC Type of contracting authority,The types of contracting authority within the domain of public procurement according to legislation of the European Parliament.,https://simap.ted.europa.eu/documents/10184/99173/EN_F01.pdf,organization
 TED_CE_ACTIVITY,EC Main activity of contracting entity,The main activities of contracting entities within the domain of public procurement according to legislation of the European Parliament.,https://simap.ted.europa.eu/documents/10184/99173/EN_F04.pdf,organization
+buyer-contracting-type,EC Buyer entity contracting type,Whether or not the buyer is a contracting entity within the domain of public procurement according to legislation of the European Parliament.,https://github.com/OP-TED/eForms-SDK/blob/develop/codelists/buyer-contracting-type.gc,organization
+Directive 2014/25/EU,EC Main activity concept of contracting entity,The main activities of the buyers and contracting entities within the domain of public procurement according to legistlation of the European Parliament.,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014L0025#d1e2854-243-1,organization

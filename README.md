@@ -4,7 +4,7 @@ Adds an array of classification objects to an organization's details, in order t
 
 ## Legal context
 
-In the European Union, this extension's fields correspond to [eForms BT-10 (Activity Authority). BT-610 (Activity Entity), and BT-740 (Buyer Contracting Entity)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/).
+In the European Union, this extension's fields correspond to [eForms BT-10 (Activity Authority). BT-610 (Activity Entity), and BT-740 (Buyer Contracting Entity)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/). See [OCDS for the European Union](http://standard.open-contracting.org/profiles/eu/master/en/) for the correspondences to Tenders Electronic Daily (TED).
 
 ## Examples
 

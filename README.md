@@ -2,10 +2,6 @@
 
 Adds an array of classification objects to an organization's details, in order to categorize it.
 
-## Legal context
-
-In the European Union, this extension's fields correspond to [eForms BT-10 (Activity Authority). BT-610 (Activity Entity), and BT-740 (Buyer Contracting Entity)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/). See [OCDS for the European Union](http://standard.open-contracting.org/profiles/eu/master/en/) for the correspondences to Tenders Electronic Daily (TED).
-
 ## Examples
 
 ```json
@@ -42,7 +38,7 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ### 2023-04-05
 
-* Add 'buyer-contracting-type' and 'Directive 2014/25/EU' to the `+itemClassificationScheme.csv` codelist.
+* Add 'eu-buyer-contracting-type' and 'eu-main-activity' to the `+itemClassificationScheme.csv` codelist.
 
 ### 2021-02-15
 

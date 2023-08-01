@@ -36,6 +36,7 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 ### 2023-08-01
 
 * Add 'eu-main-activity' and 'eu-buyer-contracting-type' to `+itemClassificationScheme.csv`.
+
 ### 2020-04-24
 
 * Add `minProperties`, `minItems` and/or `minLength` properties.

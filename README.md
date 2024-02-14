@@ -51,6 +51,8 @@ An Organization classified as a women-owned small business by the Small Business
 }
 ```
 
+For a longer example detailing how a women-owned business can be declared using this extension see the [Organization classifications guidance](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/#example-2-2-disclosing-data-using-a-local-scheme) in the core standard documentation.
+
 ## Issues
 
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.

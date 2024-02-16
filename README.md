@@ -8,7 +8,7 @@ In the European Union, this extension's fields correspond to [eForms BT-10 (Acti
 
 ## Examples
 
-An organization categorized as a Social protection business.
+An organization categorized as a social protection business.
 
 ```json
 {
@@ -29,7 +29,7 @@ An organization categorized as a Social protection business.
 }
 ```
 
-An Organization classified as a women-owned small business by the Small Business Administration in the USA.
+An organization classified as a women-owned small business by the Small Business Administration in the USA.
 
 ```json
 {
@@ -51,7 +51,7 @@ An Organization classified as a women-owned small business by the Small Business
 }
 ```
 
-For a longer example detailing how a women-owned business can be declared using this extension see the [Organization classifications guidance](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/#example-2-2-disclosing-data-using-a-local-scheme) in the core standard documentation.
+For a longer example, see the [organization classifications](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/#example-2-2-disclosing-data-using-a-local-scheme) guidance in the OCDS documentation.
 
 ## Issues
 

@@ -8,6 +8,8 @@ In the European Union, this extension's fields correspond to [eForms BT-10 (Acti
 
 ## Examples
 
+An organization categorized as a social protection business.
+
 ```json
 {
   "parties": [
@@ -26,6 +28,30 @@ In the European Union, this extension's fields correspond to [eForms BT-10 (Acti
   ]
 }
 ```
+
+An organization classified as a women-owned small business by the Small Business Administration in the USA.
+
+```json
+{
+  "parties": [
+    {
+      "id": "1",
+      "details": {
+        "classifications": [
+          {
+            "id": "WOSB",
+            "scheme": "USA-SBA",
+            "description": "Woman-Owned Small Business",
+            "uri": "https://www.ecfr.gov/current/title-13/chapter-I/part-127/subpart-B"
+          }
+        ]
+      }
+    }
+  ]
+}
+```
+
+For a longer example, see the [organization classifications](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/#example-2-2-disclosing-data-using-a-local-scheme) guidance in the OCDS documentation.
 
 ## Issues
 

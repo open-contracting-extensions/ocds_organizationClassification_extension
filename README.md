@@ -57,11 +57,11 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ### 2024-05-22
 
-* Add 'eu-buyer-legal-type' to the `+itemClassificationScheme.csv` codelist.
+* Add 'eu-buyer-legal-type' code to the `+itemClassificationScheme.csv` codelist patch.
 
 ### 2023-08-01
 
-* Add 'eu-buyer-contracting-type' and 'eu-main-activity' to the `+itemClassificationScheme.csv` codelist.
+* Add 'eu-buyer-contracting-type' and 'eu-main-activity' codes to the `+itemClassificationScheme.csv` codelist patch.
 
 ### 2020-04-24
 
